@@ -85,7 +85,7 @@ Start by launching the application to access the application interface.
 ---
 
 #### 2. Add & Delete Control Points Using Left/Right mouse button.   
-Click on the canvas to add control points. These points form the foundation of your curve modeling.  
+Left click anywhere on the canvas to add control points. These points form the foundation of your curve modeling. You can then right click to remove control points.  
 ![Add Control Points](examples/Add_Delete_Control_Points.gif)
 
 ---
@@ -105,10 +105,10 @@ Switch to B-Spline mode to visualize and manipulate curves constructed with cubi
 #### 5. Adjust Curve Detail Levels  
 Refine the smoothness and granularity of your curves by increasing or decreasing detail levels.  
 
-- **Bezier Curve Detail Adjustment**:  
+- **Bezier Curve +/- Detail Levels**:  
   ![Bezier Curve LOD](examples/Bezier_Curve_LOD.gif)
 
-- **B-Spline Curve Detail Adjustment**:  
+- **B-Spline Curve +/- Detail Levels**:  
   ![B-Spline Curve LOD](examples/BSpline_Curve_LOD.gif)
 
 ---
