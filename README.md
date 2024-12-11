@@ -15,20 +15,6 @@ This 2D modeling tool, developed in **C++**, lets users intuitively render and m
 
 ---
 
-## 🛠️ Technologies at a Glance
-
-- **Programming Language**: C++  
-- **Graphics Library**: OpenGL  
-
----
-
-## 💻 Development Environment
-
-- **IDE**: Visual Studio 2022  
-- **OS**: Windows 10 (21H2)  
-
----
-
 ## 🌟 Key Features
 
 1. **Bezier Curves**:  
@@ -45,6 +31,59 @@ This 2D modeling tool, developed in **C++**, lets users intuitively render and m
 
 ---
 
+## 🎥 **Program Walk-through**
+
+Below is an outline of the core functionalities of the tool. Each step highlights how users can interact with the system to explore and manipulate curves dynamically.
+
+---
+
+### **1. Launch the Utility**
+Start by launching the application to access the application interface.  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b069be93-7c9e-4bd2-a442-9d0422a91acf" alt="Application Launch Screen" width="45%" />
+</div>
+
+---
+
+### **2. Add & Delete Control Points**
+💡 **Tip:** Use the **left mouse button** to add control points on the canvas. These points form the foundation of your curve modeling. To remove a control point, simply use the **right mouse button**.
+
+<div align="center">
+  <img src="examples/Add_Delete_Control_Points.gif" alt="Add Control Points" width="45%" />
+</div>
+
+---
+
+### **3. Render Bezier Curves** and **4. Render B-Spline Curves**
+💡 **Key Features:** 
+- **Bezier Curves**: Render smooth and precise curves using **de Casteljau’s algorithm**.
+- **B-Spline Curves**: Visualize smooth, continuous curves with **cubic spline formulations**.
+
+<div align="center">
+  <img src="examples/Bezier_Curve_Mode.gif" alt="Bezier Curve Mode" width="45%" />
+  <img src="examples/BSpline_Curve_Mode.gif" alt="B-Spline Curve Mode" width="45%" />
+</div>
+
+---
+
+### **5. Adjust Curve Detail Levels**
+💡 **Customize Your Curve:** Use the **`+` and `-` keys** to refine the smoothness and granularity of the curves.
+
+<div align="center">
+  <img src="examples/Bezier_Curve_LOD.gif" alt="Bezier Curve LOD" width="45%" />
+  <img src="examples/BSpline_Curve_LOD.gif" alt="B-Spline Curve LOD" width="45%" />
+</div>
+
+---
+
+### **6. Drag and Reshape Control Points**
+💡 **Interactive Editing:** Dynamically reshape curves by dragging control points to new positions. This feature provides **real-time visual updates** for precise modeling.
+
+<div align="center">
+  <img src="examples/Drag_&_Reshape.gif" alt="Drag & Reshape Control Points" width="45%" />
+</div>
+
+---
 
 ## 🧑‍🔬 How to Get Started 
 
@@ -72,50 +111,17 @@ This 2D modeling tool, developed in **C++**, lets users intuitively render and m
 
 ---
 
-## Program Walk-through  
+## 🛠️ Technologies at a Glance
 
-Below is an outline of the core functionalities of the tool. Each step highlights how users can interact with the system to explore and manipulate curves dynamically.
-
----
-
-#### 1. Launch the Utility  
-Start by launching the application to access the application interface.  
-![Application Launch Screen](https://github.com/user-attachments/assets/b069be93-7c9e-4bd2-a442-9d0422a91acf)
+- **Programming Language**: C++  
+- **Graphics Library**: OpenGL  
 
 ---
 
-#### 2. Add & Delete Control Points Using Left/Right mouse button.   
-Left click anywhere on the canvas to add control points. These points form the foundation of your curve modeling. You can then right click to remove control points.  
-![Add Control Points](examples/Add_Delete_Control_Points.gif)
+## 💻 Development Environment
 
----
-
-#### 3. Render Bezier Curves  
-Use the control points to render smooth, precise Bezier curves via **de Casteljau’s algorithm**.  
-![Bezier Curve Mode](examples/Bezier_Curve_Mode.gif)
-
----
-
-#### 4. Render B-Spline Curves  
-Switch to B-Spline mode to visualize and manipulate curves constructed with cubic spline formulations.  
-![B-Spline Curve Mode](examples/BSpline_Curve_Mode.gif)
-
----
-
-#### 5. Adjust Curve Detail Levels  
-Refine the smoothness and granularity of your curves by increasing or decreasing detail levels.  
-
-- **Bezier Curve +/- Detail Levels**:  
-  ![Bezier Curve LOD](examples/Bezier_Curve_LOD.gif)
-
-- **B-Spline Curve +/- Detail Levels**:  
-  ![B-Spline Curve LOD](examples/BSpline_Curve_LOD.gif)
-
----
-
-#### 6. Drag and Reshape Control Points  
-Interactively reshape curves by dragging control points to new positions.  
-![Drag & Reshape Control Points](examples/Drag_&_Reshape.gif)
+- **IDE**: Visual Studio 2022  
+- **OS**: Windows 10 (21H2)  
 
 ---
 
