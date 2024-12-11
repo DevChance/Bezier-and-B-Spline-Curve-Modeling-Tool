@@ -89,7 +89,7 @@ Start by launching the application to access the application interface.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Bezier-Spline-Curve-Modeler.git
+   git clone https://github.com/DevChance/Bezier-Spline-Curve-Modeler.git
    cd Bezier-Spline-Curve-Modeler
 
 
