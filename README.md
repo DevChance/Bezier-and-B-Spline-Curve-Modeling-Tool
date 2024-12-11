@@ -87,7 +87,8 @@ Start by launching the application to access the application interface.
 
 #### 2. Add Control Points  
 Click on the canvas to add control points. These points form the foundation of your curve modeling.  
-https://github.com/user-attachments/assets/b3c445e7-bc83-4f22-bc87-b70e6ba4034a
+https://github.com/user-attachments/assets/830d29e5-e63d-498a-af42-a60b07407fe8
+
 
 
 
