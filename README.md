@@ -82,39 +82,41 @@ Below is an outline of the core functionalities of the tool. Each step highlight
 Start by launching the application to access the application interface.  
 ![Application Launch Screen](https://github.com/user-attachments/assets/b069be93-7c9e-4bd2-a442-9d0422a91acf)
 
-
 ---
 
 #### 2. Add Control Points  
 Click on the canvas to add control points. These points form the foundation of your curve modeling.  
-https://github.com/user-attachments/assets/830d29e5-e63d-498a-af42-a60b07407fe8
-
-
-
+![Add Control Points](examples/Add_Delete_Control_Points.gif)
 
 ---
 
 #### 3. Render Bezier Curves  
 Use the control points to render smooth, precise Bezier curves via **de Casteljau’s algorithm**.  
-*(Image Placeholder: `examples/render_bezier.png`)*  
+![Bezier Curve Mode](examples/Bezier_Curve_Mode.gif)
 
 ---
 
 #### 4. Render B-Spline Curves  
 Switch to B-Spline mode to visualize and manipulate curves constructed with cubic spline formulations.  
-*(Image Placeholder: `examples/render_b_spline.png`)*  
+![B-Spline Curve Mode](examples/BSpline_Curve_Mode.gif)
 
 ---
 
 #### 5. Adjust Curve Detail Levels  
 Refine the smoothness and granularity of your curves by increasing or decreasing detail levels.  
-*(Image Placeholder: `examples/adjust_detail.png`)*  
+
+- **Bezier Curve Detail Adjustment**:  
+  ![Bezier Curve LOD](examples/Bezier_Curve_LOD.gif)
+
+- **B-Spline Curve Detail Adjustment**:  
+  ![B-Spline Curve LOD](examples/BSpline_Curve_LOD.gif)
 
 ---
 
 #### 6. Drag and Reshape Control Points  
 Interactively reshape curves by dragging control points to new positions.  
-*(Image Placeholder: `examples/drag_control_points.png`)*  
+![Drag & Reshape Control Points](examples/Drag_&_Reshape.gif)
 
 ---
+
 
