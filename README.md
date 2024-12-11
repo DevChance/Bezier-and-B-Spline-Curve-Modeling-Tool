@@ -79,14 +79,17 @@ Below is an outline of the core functionalities of the tool. Each step highlight
 ---
 
 #### 1. Launch the Utility  
-Start by launching the application to access the canvas interface.  
-*(Image Placeholder: `examples/launch_screen.png`)*  
+Start by launching the application to access the application interface.  
+![Application Launch Screen](https://github.com/user-attachments/assets/b069be93-7c9e-4bd2-a442-9d0422a91acf)
+
 
 ---
 
 #### 2. Add Control Points  
 Click on the canvas to add control points. These points form the foundation of your curve modeling.  
-*(Image Placeholder: `examples/add_control_points.png`)*  
+https://github.com/user-attachments/assets/b3c445e7-bc83-4f22-bc87-b70e6ba4034a
+
+
 
 ---
 
