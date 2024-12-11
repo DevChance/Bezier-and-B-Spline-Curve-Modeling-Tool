@@ -84,7 +84,7 @@ Start by launching the application to access the application interface.
 
 ---
 
-#### 2. Add Control Points  
+#### 2. Add & Delete Control Points Using Left/Right mouse button.   
 Click on the canvas to add control points. These points form the foundation of your curve modeling.  
 ![Add Control Points](examples/Add_Delete_Control_Points.gif)
 
