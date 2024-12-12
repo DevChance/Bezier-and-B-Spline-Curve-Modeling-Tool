@@ -89,17 +89,17 @@ Start by launching the application to access the application interface.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DevChance/Bezier-Spline-Curve-Modeler.git
-   cd Bezier-Spline-Curve-Modeler
+   git clone https://github.com/DevChance/Bezier-and-B-Spline-Curve-Modeling-Tool.git
+   cd Bezier-and-B-Spline-Curve-Modeling-Tool
 
 
 ### Open and Run the Project
 
-1. Open the solution file (`hw-curves.sln`) in **Visual Studio 2022**.
+1. Open the solution file (`Bezier-and-B-Spline-Curve-Modeling-Tool.sln`) in **Visual Studio 2022**.
 2. Build and run the project.
 
 ### Program Controls
-
+***Must First Select Mode Using # Keys***
 - **Left-click**: Add control points.
 - **Right-click**: Delete control points.
 - **Drag**: Move control points interactively.
