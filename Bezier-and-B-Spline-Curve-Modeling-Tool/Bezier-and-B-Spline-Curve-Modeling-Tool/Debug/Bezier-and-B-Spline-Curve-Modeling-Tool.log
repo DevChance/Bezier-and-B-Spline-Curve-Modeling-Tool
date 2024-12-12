@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw-curves.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  shaders.cpp
+  Scene.cpp
+  Point.cpp
+  main.cpp
+  curves2.cpp
+  Curve.cpp
+C:\Users\Chanc\OneDrive\Desktop\Bezier-and-B-Spline-Curve-Modeling-Tool\Bezier-and-B-Spline-Curve-Modeling-Tool\curves2.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chanc\OneDrive\Desktop\Bezier-and-B-Spline-Curve-Modeling-Tool\Bezier-and-B-Spline-Curve-Modeling-Tool\curves2.cpp(69,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chanc\OneDrive\Desktop\Bezier-and-B-Spline-Curve-Modeling-Tool\Bezier-and-B-Spline-Curve-Modeling-Tool\curves2.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chanc\OneDrive\Desktop\Bezier-and-B-Spline-Curve-Modeling-Tool\Bezier-and-B-Spline-Curve-Modeling-Tool\curves2.cpp(177,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chanc\OneDrive\Desktop\Bezier-and-B-Spline-Curve-Modeling-Tool\Bezier-and-B-Spline-Curve-Modeling-Tool\curves2.cpp(179,10): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Chanc\OneDrive\Desktop\Bezier-and-B-Spline-Curve-Modeling-Tool\Bezier-and-B-Spline-Curve-Modeling-Tool\curves2.cpp(182,10): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+Curve.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Bezier-and-B-Spline-Curve-Modeling-Tool.vcxproj -> C:\Users\Chanc\OneDrive\Desktop\Bezier-and-B-Spline-Curve-Modeling-Tool\Debug\Bezier-and-B-Spline-Curve-Modeling-Tool.exe
